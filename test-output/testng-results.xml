@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10382" started-at="2019-07-27T19:13:32Z" finished-at="2019-07-27T19:13:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10382" started-at="2019-07-27T19:13:32Z" finished-at="2019-07-27T19:13:42Z">
+      <class name="testCases.TC_2_verifyAddPayee">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TC_2_verifyAddPayee@59fa1d9b]" name="setup" is-config="true" duration-ms="6812" started-at="2019-07-27T19:13:32Z" finished-at="2019-07-27T19:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testCases.TC_2_verifyAddPayee@59fa1d9b]" name="verifyLogin" duration-ms="3532" started-at="2019-07-27T19:13:39Z" finished-at="2019-07-27T19:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- testCases.TC_2_verifyAddPayee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
