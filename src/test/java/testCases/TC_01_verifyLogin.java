@@ -26,7 +26,7 @@ public class TC_01_verifyLogin {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		wp=PageFactory.initElements(driver, WelcomePage.class);
-		lp=PageFactory.initElements(driver, LoginPage.class);//added a comment to try GIT
+		lp=PageFactory.initElements(driver, LoginPage.class);//added a comment to try GIT more comments
 	}
 	
 	@Test
